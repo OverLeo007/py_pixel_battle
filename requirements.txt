@@ -10,7 +10,7 @@ future==0.18.2
 html2json==0.2.4.1
 idna==2.9
 itsdangerous==1.1.0
-Jinja2==2.11.2
+Jinja2==2.11.3
 lxml==4.5.0
 MarkupSafe==1.1.1
 orm==0.1.5
